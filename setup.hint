@@ -1,4 +1,4 @@
 category: X11 Mail
-requires: cygwin libX11_6 libXaw7 libXmu6 libXt6
+requires: libX11_6 libXaw7 libXmu6 libXt6
 sdesc: "X.Org frontend to MH mail handler"
 ldesc: "X.Org frontend to MH mail handler"
